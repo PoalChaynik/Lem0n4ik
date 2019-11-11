@@ -1,0 +1,16 @@
+{
+  "name": "botik",
+  "version": "2.0.0",
+  "description": "",
+  "main": "botik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "userinfo-discord": "^1.0.2"
+  }
+}
